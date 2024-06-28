@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\DAY5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\07_action_func2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:07_action_func2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\07_action_func1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:07_action_func1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\06_event1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:06_event1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\05_example5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:05_example5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\05_example4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:05_example4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\05_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:05_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\05_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:05_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\05_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:05_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\04_delegate_method2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:04_delegate_method2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\03_delegate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:03_delegate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\03_delegate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:03_delegate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\03_delegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:03_delegate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\00_generic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:00_generic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\10_exception2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:10_exception2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\11_collection6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:11_collection6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\11_collection5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:11_collection5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\11_collection4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:11_collection4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\11_collection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:11_collection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\11_collection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:11_collection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\10_exception3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:10_exception3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\10_exception1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:10_exception1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\09_partial_class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:09_partial_class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\09_partial_class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:09_partial_class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\09_partial_class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:09_partial_class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\08_lambda4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:08_lambda4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\08_lambda3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:08_lambda3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\08_lambda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:08_lambda2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\08_lambda1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:08_lambda1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\06_event4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:06_event4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\covariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:covariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\06_event3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:06_event3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\06_event2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:06_event2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\02_boxing_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:02_boxing_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\02_boxing_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:02_boxing_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\01_generic_constraint4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:01_generic_constraint4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\02_boxing_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:02_boxing_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\01_generic_constraint3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:01_generic_constraint3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\00_generic3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:00_generic3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\01_generic_constraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:01_generic_constraint1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\01_generic_constraint2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:01_generic_constraint2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|c:\\users\\user\\day5\\00_generic2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E84353-D4F3-465E-B19A-1CF9FFB71E0F}|DAY5.csproj|solutionrelative:00_generic2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "05_example2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\05_example2.cs",
+              "RelativeDocumentMoniker": "05_example2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\05_example2.cs",
+              "RelativeToolTip": "05_example2.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:15:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "05_example3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\05_example3.cs",
+              "RelativeDocumentMoniker": "05_example3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\05_example3.cs",
+              "RelativeToolTip": "05_example3.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:46:00.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "05_example4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\05_example4.cs",
+              "RelativeDocumentMoniker": "05_example4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\05_example4.cs",
+              "RelativeToolTip": "05_example4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:59:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "05_example5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\05_example5.cs",
+              "RelativeDocumentMoniker": "05_example5.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\05_example5.cs",
+              "RelativeToolTip": "05_example5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:04:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "06_event1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\06_event1.cs",
+              "RelativeDocumentMoniker": "06_event1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\06_event1.cs",
+              "RelativeToolTip": "06_event1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:07:39.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "07_action_func1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\07_action_func1.cs",
+              "RelativeDocumentMoniker": "07_action_func1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\07_action_func1.cs",
+              "RelativeToolTip": "07_action_func1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:29:15.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07_action_func2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\07_action_func2.cs",
+              "RelativeDocumentMoniker": "07_action_func2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\07_action_func2.cs",
+              "RelativeToolTip": "07_action_func2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:34:40.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:53:50.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "05_example1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\05_example1.cs",
+              "RelativeDocumentMoniker": "05_example1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\05_example1.cs",
+              "RelativeToolTip": "05_example1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:06:37.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "04_delegate_method2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\04_delegate_method2.cs",
+              "RelativeDocumentMoniker": "04_delegate_method2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\04_delegate_method2.cs",
+              "RelativeToolTip": "04_delegate_method2.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:51:17.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "03_delegate3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\03_delegate3.cs",
+              "RelativeDocumentMoniker": "03_delegate3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\03_delegate3.cs",
+              "RelativeToolTip": "03_delegate3.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:17:54.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "03_delegate2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\03_delegate2.cs",
+              "RelativeDocumentMoniker": "03_delegate2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\03_delegate2.cs",
+              "RelativeToolTip": "03_delegate2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T01:04:41.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "03_delegate1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\03_delegate1.cs",
+              "RelativeDocumentMoniker": "03_delegate1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\03_delegate1.cs",
+              "RelativeToolTip": "03_delegate1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:45:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "00_generic1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\00_generic1.cs",
+              "RelativeDocumentMoniker": "00_generic1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\00_generic1.cs",
+              "RelativeToolTip": "00_generic1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:47:51.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "10_exception2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\10_exception2.cs",
+              "RelativeDocumentMoniker": "10_exception2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\10_exception2.cs",
+              "RelativeToolTip": "10_exception2.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:06:41.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "11_collection6.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\11_collection6.cs",
+              "RelativeDocumentMoniker": "11_collection6.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\11_collection6.cs",
+              "RelativeToolTip": "11_collection6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:39:04.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "11_collection5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\11_collection5.cs",
+              "RelativeDocumentMoniker": "11_collection5.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\11_collection5.cs",
+              "RelativeToolTip": "11_collection5.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:36:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "11_collection4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\11_collection4.cs",
+              "RelativeDocumentMoniker": "11_collection4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\11_collection4.cs",
+              "RelativeToolTip": "11_collection4.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:32:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "11_collection3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\11_collection3.cs",
+              "RelativeDocumentMoniker": "11_collection3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\11_collection3.cs",
+              "RelativeToolTip": "11_collection3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:32:02.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "11_collection1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\11_collection1.cs",
+              "RelativeDocumentMoniker": "11_collection1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\11_collection1.cs",
+              "RelativeToolTip": "11_collection1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:23:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "10_exception3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\10_exception3.cs",
+              "RelativeDocumentMoniker": "10_exception3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\10_exception3.cs",
+              "RelativeToolTip": "10_exception3.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:14:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "10_exception1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\10_exception1.cs",
+              "RelativeDocumentMoniker": "10_exception1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\10_exception1.cs",
+              "RelativeToolTip": "10_exception1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:01:17.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "09_partial_class3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\09_partial_class3.cs",
+              "RelativeDocumentMoniker": "09_partial_class3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\09_partial_class3.cs",
+              "RelativeToolTip": "09_partial_class3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:39:35.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "09_partial_class2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\09_partial_class2.cs",
+              "RelativeDocumentMoniker": "09_partial_class2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\09_partial_class2.cs",
+              "RelativeToolTip": "09_partial_class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:39:29.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "09_partial_class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\09_partial_class1.cs",
+              "RelativeDocumentMoniker": "09_partial_class1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\09_partial_class1.cs",
+              "RelativeToolTip": "09_partial_class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:39:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "08_lambda4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\08_lambda4.cs",
+              "RelativeDocumentMoniker": "08_lambda4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\08_lambda4.cs",
+              "RelativeToolTip": "08_lambda4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:39:11.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "08_lambda3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\08_lambda3.cs",
+              "RelativeDocumentMoniker": "08_lambda3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\08_lambda3.cs",
+              "RelativeToolTip": "08_lambda3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:38:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "08_lambda2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\08_lambda2.cs",
+              "RelativeDocumentMoniker": "08_lambda2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\08_lambda2.cs",
+              "RelativeToolTip": "08_lambda2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:21:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "08_lambda1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\08_lambda1.cs",
+              "RelativeDocumentMoniker": "08_lambda1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\08_lambda1.cs",
+              "RelativeToolTip": "08_lambda1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:12:15.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "covariant.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\covariant.cs",
+              "RelativeDocumentMoniker": "covariant.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\covariant.cs",
+              "RelativeToolTip": "covariant.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:57:17.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "06_event4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\06_event4.cs",
+              "RelativeDocumentMoniker": "06_event4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\06_event4.cs",
+              "RelativeToolTip": "06_event4.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:19:40.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "06_event3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\06_event3.cs",
+              "RelativeDocumentMoniker": "06_event3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\06_event3.cs",
+              "RelativeToolTip": "06_event3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:12:05.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "06_event2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\06_event2.cs",
+              "RelativeDocumentMoniker": "06_event2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\06_event2.cs",
+              "RelativeToolTip": "06_event2.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:07:27.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "02_boxing_example3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\02_boxing_example3.cs",
+              "RelativeDocumentMoniker": "02_boxing_example3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\02_boxing_example3.cs",
+              "RelativeToolTip": "02_boxing_example3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:44:15.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "02_boxing_example1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\02_boxing_example1.cs",
+              "RelativeDocumentMoniker": "02_boxing_example1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\02_boxing_example1.cs",
+              "RelativeToolTip": "02_boxing_example1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:35:54.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "01_generic_constraint4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\01_generic_constraint4.cs",
+              "RelativeDocumentMoniker": "01_generic_constraint4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\01_generic_constraint4.cs",
+              "RelativeToolTip": "01_generic_constraint4.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:03:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "02_boxing_example2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\02_boxing_example2.cs",
+              "RelativeDocumentMoniker": "02_boxing_example2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\02_boxing_example2.cs",
+              "RelativeToolTip": "02_boxing_example2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:39:35.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "01_generic_constraint3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\01_generic_constraint3.cs",
+              "RelativeDocumentMoniker": "01_generic_constraint3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\01_generic_constraint3.cs",
+              "RelativeToolTip": "01_generic_constraint3.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:04:34.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "01_generic_constraint2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\01_generic_constraint2.cs",
+              "RelativeDocumentMoniker": "01_generic_constraint2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\01_generic_constraint2.cs",
+              "RelativeToolTip": "01_generic_constraint2.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:59:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "01_generic_constraint1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\01_generic_constraint1.cs",
+              "RelativeDocumentMoniker": "01_generic_constraint1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\01_generic_constraint1.cs",
+              "RelativeToolTip": "01_generic_constraint1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:54:25.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "00_generic3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\00_generic3.cs",
+              "RelativeDocumentMoniker": "00_generic3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\00_generic3.cs",
+              "RelativeToolTip": "00_generic3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:49:23.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "00_generic2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY5\\00_generic2.cs",
+              "RelativeDocumentMoniker": "00_generic2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY5\\00_generic2.cs",
+              "RelativeToolTip": "00_generic2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:48:58.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

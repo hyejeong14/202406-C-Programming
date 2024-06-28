@@ -1,0 +1,141 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="00_generic1.cs" />
+    <Compile Remove="00_generic2.cs" />
+    <Compile Remove="00_generic3.cs" />
+    <Compile Remove="01_generic1.cs" />
+    <Compile Remove="01_generic3.cs" />
+    <Compile Remove="01_generic_constraint1.cs" />
+    <Compile Remove="01_generic_constraint2.cs" />
+    <Compile Remove="01_generic_constraint3.cs" />
+    <Compile Remove="01_generic_constraint4.cs" />
+    <Compile Remove="02_boxing_example1.cs" />
+    <Compile Remove="02_boxing_example2.cs" />
+    <Compile Remove="02_boxing_example3.cs" />
+    <Compile Remove="02_generic_constraint1.cs" />
+    <Compile Remove="02_generic_constraint2.cs" />
+    <Compile Remove="02_generic_constraint3.cs" />
+    <Compile Remove="03_delegate1.cs" />
+    <Compile Remove="03_delegate2.cs" />
+    <Compile Remove="03_delegate3.cs" />
+    <Compile Remove="04_delegate_method1.cs" />
+    <Compile Remove="04_delegate_method2.cs" />
+    <Compile Remove="04_delegate_method3.cs" />
+    <Compile Remove="05_example1.cs" />
+    <Compile Remove="05_example2.cs" />
+    <Compile Remove="05_example3.cs" />
+    <Compile Remove="05_example4.cs" />
+    <Compile Remove="05_example5.cs" />
+    <Compile Remove="06_event1.cs" />
+    <Compile Remove="06_event2.cs" />
+    <Compile Remove="06_event3.cs" />
+    <Compile Remove="06_event4.cs" />
+    <Compile Remove="07_action_func1.cs" />
+    <Compile Remove="07_action_func2.cs" />
+    <Compile Remove="08_boxing_example1.cs" />
+    <Compile Remove="08_boxing_example2.cs" />
+    <Compile Remove="08_boxing_example3.cs" />
+    <Compile Remove="08_boxing_example4.cs" />
+    <Compile Remove="08_boxing_example5.cs" />
+    <Compile Remove="08_lambda1.cs" />
+    <Compile Remove="08_lambda2.cs" />
+    <Compile Remove="08_lambda3.cs" />
+    <Compile Remove="08_lambda4.cs" />
+    <Compile Remove="09_partial_class1.cs" />
+    <Compile Remove="09_partial_class2.cs" />
+    <Compile Remove="09_partial_class3.cs" />
+    <Compile Remove="10_exception1.cs" />
+    <Compile Remove="10_exception2.cs" />
+    <Compile Remove="10_exception3.cs" />
+    <Compile Remove="10_exception4.cs" />
+    <Compile Remove="11_collection1.cs" />
+    <Compile Remove="11_collection2.cs" />
+    <Compile Remove="11_collection3.cs" />
+    <Compile Remove="11_collection4.cs" />
+    <Compile Remove="11_collection5.cs" />
+    <Compile Remove="11_collection6.cs" />
+    <Compile Remove="11_collection7.cs" />
+    <Compile Remove="11_collection8.cs" />
+    <Compile Remove="12_Linq1.cs" />
+    <Compile Remove="12_Linq2.cs" />
+    <Compile Remove="12_Linq3.cs" />
+    <Compile Remove="12_Linq4.cs" />
+    <Compile Remove="13_partial_class1.cs" />
+    <Compile Remove="13_partial_class2.cs" />
+    <Compile Remove="13_partial_class3.cs" />
+    <Compile Remove="13_partial_class4.cs" />
+    <Compile Remove="cmc.cs" />
+    <Compile Remove="contravariant.cs" />
+    <Compile Remove="covariant.cs" />
+    <Compile Remove="MuticastDelegate.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="00_generic1.cs" />
+    <None Include="00_generic2.cs" />
+    <None Include="00_generic3.cs" />
+    <None Include="01_generic_constraint1.cs" />
+    <None Include="01_generic_constraint2.cs" />
+    <None Include="01_generic_constraint3.cs" />
+    <None Include="01_generic_constraint4.cs" />
+    <None Include="02_boxing_example1.cs" />
+    <None Include="02_boxing_example2.cs" />
+    <None Include="02_boxing_example3.cs" />
+    <None Include="03_delegate1.cs" />
+    <None Include="03_delegate2.cs" />
+    <None Include="03_delegate3.cs" />
+    <None Include="04_delegate_method1.cs" />
+    <None Include="04_delegate_method2.cs" />
+    <None Include="04_delegate_method3.cs" />
+    <None Include="05_example1.cs" />
+    <None Include="05_example2.cs" />
+    <None Include="05_example3.cs" />
+    <None Include="05_example4.cs" />
+    <None Include="05_example5.cs" />
+    <None Include="06_event1.cs" />
+    <None Include="06_event2.cs" />
+    <None Include="06_event3.cs" />
+    <None Include="06_event4.cs" />
+    <None Include="07_action_func1.cs" />
+    <None Include="07_action_func2.cs" />
+    <None Include="08_lambda1.cs" />
+    <None Include="08_lambda2.cs" />
+    <None Include="08_lambda3.cs" />
+    <None Include="08_lambda4.cs" />
+    <None Include="09_partial_class1.cs" />
+    <None Include="09_partial_class2.cs" />
+    <None Include="09_partial_class3.cs" />
+    <None Include="10_exception1.cs" />
+    <None Include="10_exception2.cs" />
+    <None Include="10_exception3.cs" />
+    <None Include="10_exception4.cs" />
+    <None Include="11_collection1.cs" />
+    <None Include="11_collection2.cs" />
+    <None Include="11_collection3.cs" />
+    <None Include="11_collection4.cs" />
+    <None Include="11_collection5.cs" />
+    <None Include="11_collection6.cs" />
+    <None Include="11_collection7.cs" />
+    <None Include="11_collection8.cs" />
+    <None Include="12_Linq1.cs" />
+    <None Include="12_Linq2.cs" />
+    <None Include="12_Linq3.cs" />
+    <None Include="12_Linq4.cs" />
+    <None Include="cmc.cs" />
+    <None Include="contravariant.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="covariant.cs" />
+    <None Include="MuticastDelegate.cs" />
+  </ItemGroup>
+
+</Project>
