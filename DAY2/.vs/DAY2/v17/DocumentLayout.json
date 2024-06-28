@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\DAY2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_1_ref_readonly_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_1_ref_readonly_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_1_ref_readonly_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_1_ref_readonly_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_reference_parameter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_reference_parameter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_1_ref_readonly_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_1_ref_readonly_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_1_ref_readonly_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_1_ref_readonly_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\06_parameter_modifier5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:06_parameter_modifier5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_reference_parameter3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_reference_parameter3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_reference_parameter4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_reference_parameter4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_reference_parameter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_reference_parameter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\07_reference_parameter3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:07_reference_parameter3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\06_parameter_modifier4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:06_parameter_modifier4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\06_parameter_modifier3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:06_parameter_modifier3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\06_parameter_modifier2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:06_parameter_modifier2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\06_parameter_modifier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:06_parameter_modifier1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\05_method4_expression_bodied.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:05_method4_expression_bodied.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\05_method3_params2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:05_method3_params2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\05_method3_params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:05_method3_params.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\05_method2_optional_parameter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:05_method2_optional_parameter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\05_method1_named_argument1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:05_method1_named_argument1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable5_reference2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable5_reference2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\04_tuple3_valuetuple1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:04_tuple3_valuetuple1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\04_tuple3_valuetuple2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:04_tuple3_valuetuple2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\04_tuple2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:04_tuple2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable5_reference1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable5_reference1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable4_operator3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable4_operator3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable4_operator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable4_operator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable4_operator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable4_operator1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\03_nullable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:03_nullable3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|c:\\users\\user\\day2\\04_tuple3_valuetuple3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F684AC24-609B-4D4A-B248-AA46CDD13E21}|DAY2.csproj|solutionrelative:04_tuple3_valuetuple3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "07_1_ref_readonly_4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_4.cs",
+              "RelativeDocumentMoniker": "07_1_ref_readonly_4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_4.cs",
+              "RelativeToolTip": "07_1_ref_readonly_4.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:07:41.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07_1_ref_readonly_3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_3.cs",
+              "RelativeDocumentMoniker": "07_1_ref_readonly_3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_3.cs",
+              "RelativeToolTip": "07_1_ref_readonly_3.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:54:42.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "07_1_ref_readonly_2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_2.cs",
+              "RelativeDocumentMoniker": "07_1_ref_readonly_2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_2.cs",
+              "RelativeToolTip": "07_1_ref_readonly_2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:48:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "07_1_ref_readonly_1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_1.cs",
+              "RelativeDocumentMoniker": "07_1_ref_readonly_1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_1_ref_readonly_1.cs",
+              "RelativeToolTip": "07_1_ref_readonly_1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwFQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:31:51.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "07_reference_parameter3_1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_reference_parameter3_1.cs",
+              "RelativeDocumentMoniker": "07_reference_parameter3_1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_reference_parameter3_1.cs",
+              "RelativeToolTip": "07_reference_parameter3_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:07:24.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "07_reference_parameter1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_reference_parameter1.cs",
+              "RelativeDocumentMoniker": "07_reference_parameter1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_reference_parameter1.cs",
+              "RelativeToolTip": "07_reference_parameter1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:39:01.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "07_reference_parameter4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_reference_parameter4.cs",
+              "RelativeDocumentMoniker": "07_reference_parameter4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_reference_parameter4.cs",
+              "RelativeToolTip": "07_reference_parameter4.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:05:05.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "07_reference_parameter2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_reference_parameter2.cs",
+              "RelativeDocumentMoniker": "07_reference_parameter2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_reference_parameter2.cs",
+              "RelativeToolTip": "07_reference_parameter2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:51:19.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "06_parameter_modifier5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\06_parameter_modifier5.cs",
+              "RelativeDocumentMoniker": "06_parameter_modifier5.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\06_parameter_modifier5.cs",
+              "RelativeToolTip": "06_parameter_modifier5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:14:04.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "07_reference_parameter3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\07_reference_parameter3.cs",
+              "RelativeDocumentMoniker": "07_reference_parameter3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\07_reference_parameter3.cs",
+              "RelativeToolTip": "07_reference_parameter3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:00:31.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "06_parameter_modifier4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\06_parameter_modifier4.cs",
+              "RelativeDocumentMoniker": "06_parameter_modifier4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\06_parameter_modifier4.cs",
+              "RelativeToolTip": "06_parameter_modifier4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:00:44.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "03_nullable1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable1.cs",
+              "RelativeDocumentMoniker": "03_nullable1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable1.cs",
+              "RelativeToolTip": "03_nullable1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:47:03.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "03_nullable2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable2.cs",
+              "RelativeDocumentMoniker": "03_nullable2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable2.cs",
+              "RelativeToolTip": "03_nullable2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:58:17.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "06_parameter_modifier3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\06_parameter_modifier3.cs",
+              "RelativeDocumentMoniker": "06_parameter_modifier3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\06_parameter_modifier3.cs",
+              "RelativeToolTip": "06_parameter_modifier3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:53:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "06_parameter_modifier2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\06_parameter_modifier2.cs",
+              "RelativeDocumentMoniker": "06_parameter_modifier2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\06_parameter_modifier2.cs",
+              "RelativeToolTip": "06_parameter_modifier2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:53:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "05_method4_expression_bodied.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\05_method4_expression_bodied.cs",
+              "RelativeDocumentMoniker": "05_method4_expression_bodied.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\05_method4_expression_bodied.cs",
+              "RelativeToolTip": "05_method4_expression_bodied.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:17:34.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "06_parameter_modifier1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\06_parameter_modifier1.cs",
+              "RelativeDocumentMoniker": "06_parameter_modifier1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\06_parameter_modifier1.cs",
+              "RelativeToolTip": "06_parameter_modifier1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:17:32.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "05_method3_params2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\05_method3_params2.cs",
+              "RelativeDocumentMoniker": "05_method3_params2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\05_method3_params2.cs",
+              "RelativeToolTip": "05_method3_params2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T05:03:06.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "05_method3_params.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\05_method3_params.cs",
+              "RelativeDocumentMoniker": "05_method3_params.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\05_method3_params.cs",
+              "RelativeToolTip": "05_method3_params.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:51:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "05_method2_optional_parameter1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\05_method2_optional_parameter1.cs",
+              "RelativeDocumentMoniker": "05_method2_optional_parameter1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\05_method2_optional_parameter1.cs",
+              "RelativeToolTip": "05_method2_optional_parameter1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:43:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "04_tuple3_ValueTuple2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\04_tuple3_ValueTuple2.cs",
+              "RelativeDocumentMoniker": "04_tuple3_ValueTuple2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\04_tuple3_ValueTuple2.cs",
+              "RelativeToolTip": "04_tuple3_ValueTuple2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:08:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "03_nullable5_reference2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable5_reference2.cs",
+              "RelativeDocumentMoniker": "03_nullable5_reference2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable5_reference2.cs",
+              "RelativeToolTip": "03_nullable5_reference2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T04:02:53.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "04_tuple3_ValueTuple1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\04_tuple3_ValueTuple1.cs",
+              "RelativeDocumentMoniker": "04_tuple3_ValueTuple1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\04_tuple3_ValueTuple1.cs",
+              "RelativeToolTip": "04_tuple3_ValueTuple1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:53:56.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "05_method1_named_argument1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\05_method1_named_argument1.cs",
+              "RelativeDocumentMoniker": "05_method1_named_argument1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\05_method1_named_argument1.cs",
+              "RelativeToolTip": "05_method1_named_argument1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:46:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "03_nullable5_reference1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable5_reference1.cs",
+              "RelativeDocumentMoniker": "03_nullable5_reference1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable5_reference1.cs",
+              "RelativeToolTip": "03_nullable5_reference1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:54:39.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "03_nullable4_operator3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable4_operator3.cs",
+              "RelativeDocumentMoniker": "03_nullable4_operator3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable4_operator3.cs",
+              "RelativeToolTip": "03_nullable4_operator3.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:42:02.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "03_nullable4_operator2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable4_operator2.cs",
+              "RelativeDocumentMoniker": "03_nullable4_operator2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable4_operator2.cs",
+              "RelativeToolTip": "03_nullable4_operator2.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:22:19.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "03_nullable4_operator1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable4_operator1.cs",
+              "RelativeDocumentMoniker": "03_nullable4_operator1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable4_operator1.cs",
+              "RelativeToolTip": "03_nullable4_operator1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:13:38.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "04_tuple2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\04_tuple2.cs",
+              "RelativeDocumentMoniker": "04_tuple2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\04_tuple2.cs",
+              "RelativeToolTip": "04_tuple2.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:42:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "03_nullable3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\03_nullable3.cs",
+              "RelativeDocumentMoniker": "03_nullable3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\03_nullable3.cs",
+              "RelativeToolTip": "03_nullable3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:07:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "04_tuple3_ValueTuple3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY2\\04_tuple3_ValueTuple3.cs",
+              "RelativeDocumentMoniker": "04_tuple3_ValueTuple3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY2\\04_tuple3_ValueTuple3.cs",
+              "RelativeToolTip": "04_tuple3_ValueTuple3.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:32:15.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

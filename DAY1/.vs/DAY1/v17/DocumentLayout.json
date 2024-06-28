@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\DAY1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|c:\\users\\user\\day1\\05_control_statement2_switch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|solutionrelative:05_control_statement2_switch2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|c:\\users\\user\\day1\\05_control_statement4_switch_expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|solutionrelative:05_control_statement4_switch_expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|c:\\users\\user\\day1\\08_value_vs_reference5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|solutionrelative:08_value_vs_reference5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|c:\\users\\user\\day1\\08_value_vs_reference4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|solutionrelative:08_value_vs_reference4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|c:\\users\\user\\day1\\08_value_vs_reference3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|solutionrelative:08_value_vs_reference3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|c:\\users\\user\\day1\\08_value_vs_reference2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|solutionrelative:08_value_vs_reference2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|c:\\users\\user\\day1\\08_value_vs_reference1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A37699-52F3-4FC1-8C87-595991136F8C}|DAY1.csproj|solutionrelative:08_value_vs_reference1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "05_control_statement2_switch2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY1\\05_control_statement2_switch2.cs",
+              "RelativeDocumentMoniker": "05_control_statement2_switch2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY1\\05_control_statement2_switch2.cs",
+              "RelativeToolTip": "05_control_statement2_switch2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:10:57.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05_control_statement4_switch_expression.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY1\\05_control_statement4_switch_expression.cs",
+              "RelativeDocumentMoniker": "05_control_statement4_switch_expression.cs",
+              "ToolTip": "C:\\Users\\User\\DAY1\\05_control_statement4_switch_expression.cs",
+              "RelativeToolTip": "05_control_statement4_switch_expression.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:10:35.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "08_value_vs_reference5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY1\\08_value_vs_reference5.cs",
+              "RelativeDocumentMoniker": "08_value_vs_reference5.cs",
+              "ToolTip": "C:\\Users\\User\\DAY1\\08_value_vs_reference5.cs",
+              "RelativeToolTip": "08_value_vs_reference5.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:55:35.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "08_value_vs_reference4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY1\\08_value_vs_reference4.cs",
+              "RelativeDocumentMoniker": "08_value_vs_reference4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY1\\08_value_vs_reference4.cs",
+              "RelativeToolTip": "08_value_vs_reference4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:45:20.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "08_value_vs_reference3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY1\\08_value_vs_reference3.cs",
+              "RelativeDocumentMoniker": "08_value_vs_reference3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY1\\08_value_vs_reference3.cs",
+              "RelativeToolTip": "08_value_vs_reference3.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:37:22.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "08_value_vs_reference2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY1\\08_value_vs_reference2.cs",
+              "RelativeDocumentMoniker": "08_value_vs_reference2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY1\\08_value_vs_reference2.cs",
+              "RelativeToolTip": "08_value_vs_reference2.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:12:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "08_value_vs_reference1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY1\\08_value_vs_reference1.cs",
+              "RelativeDocumentMoniker": "08_value_vs_reference1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY1\\08_value_vs_reference1.cs",
+              "RelativeToolTip": "08_value_vs_reference1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:19:09.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

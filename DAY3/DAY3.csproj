@@ -1,0 +1,129 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_class1.cs" />
+    <Compile Remove="01_class2.cs" />
+    <Compile Remove="01_class3.cs" />
+    <Compile Remove="01_class3_1.cs" />
+    <Compile Remove="01_class4.cs" />
+    <Compile Remove="01_class5.cs" />
+    <Compile Remove="02_property1.cs" />
+    <Compile Remove="02_property2.cs" />
+    <Compile Remove="02_property3.cs" />
+    <Compile Remove="02_property4.cs" />
+    <Compile Remove="03_property_example1.cs" />
+    <Compile Remove="03_property_example2.cs" />
+    <Compile Remove="03_property_example3.cs" />
+    <Compile Remove="03_property_example4.cs" />
+    <Compile Remove="04_auto_property1.cs" />
+    <Compile Remove="04_auto_property2.cs" />
+    <Compile Remove="05_auto_example1.cs" />
+    <Compile Remove="05_auto_example2.cs" />
+    <Compile Remove="05_auto_example3.cs" />
+    <Compile Remove="05_auto_example4.cs" />
+    <Compile Remove="06_indexer1.cs" />
+    <Compile Remove="06_indexer2.cs" />
+    <Compile Remove="07_static1.cs" />
+    <Compile Remove="07_static2.cs" />
+    <Compile Remove="07_static3.cs" />
+    <Compile Remove="07_static4.cs" />
+    <Compile Remove="07_static5.cs" />
+    <Compile Remove="07_static5_class1.cs" />
+    <Compile Remove="07_static5_class2.cs" />
+    <Compile Remove="07_static6.cs" />
+    <Compile Remove="07_static6_constructor1.cs" />
+    <Compile Remove="07_static6_constructor2.cs" />
+    <Compile Remove="08_inheritance1.cs" />
+    <Compile Remove="08_inheritance2_constructor1.cs" />
+    <Compile Remove="08_inheritance2_constructor2.cs" />
+    <Compile Remove="08_inheritance2_constructor2_1.cs" />
+    <Compile Remove="08_inheritance2_constructor2_2.cs" />
+    <Compile Remove="08_inheritance2_constructor3.cs" />
+    <Compile Remove="08_inheritance3_upcasting1.cs" />
+    <Compile Remove="08_inheritance3_upcasting2.cs" />
+    <Compile Remove="09_override1.cs" />
+    <Compile Remove="09_override2.cs" />
+    <Compile Remove="09_override3.cs" />
+    <Compile Remove="09_override4.cs" />
+    <Compile Remove="09_override5.cs" />
+    <Compile Remove="09_override6_example1.cs" />
+    <Compile Remove="10_coupling1.cs" />
+    <Compile Remove="10_coupling2.cs" />
+    <Compile Remove="10_coupling3.cs" />
+    <Compile Remove="10_coupling4.cs" />
+    <Compile Remove="11_interface1.cs" />
+    <Compile Remove="11_interface2.cs" />
+    <Compile Remove="11_interface3.cs" />
+    <Compile Remove="11_interface4.cs" />
+    <Compile Remove="cmc.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="02_property3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_class1.cs" />
+    <None Include="01_class2.cs" />
+    <None Include="01_class3.cs" />
+    <None Include="01_class3_1.cs" />
+    <None Include="01_class4.cs" />
+    <None Include="01_class5.cs" />
+    <None Include="02_property1.cs" />
+    <None Include="02_property2.cs" />
+    <None Include="02_property4.cs" />
+    <None Include="03_property_example1.cs" />
+    <None Include="03_property_example2.cs" />
+    <None Include="03_property_example3.cs" />
+    <None Include="03_property_example4.cs" />
+    <None Include="04_auto_property1.cs" />
+    <None Include="04_auto_property2.cs" />
+    <None Include="05_auto_example1.cs" />
+    <None Include="05_auto_example2.cs" />
+    <None Include="05_auto_example3.cs" />
+    <None Include="05_auto_example4.cs" />
+    <None Include="06_indexer1.cs" />
+    <None Include="06_indexer2.cs" />
+    <None Include="07_static1.cs" />
+    <None Include="07_static2.cs" />
+    <None Include="07_static3.cs" />
+    <None Include="07_static4.cs" />
+    <None Include="07_static5.cs" />
+    <None Include="07_static5_class1.cs" />
+    <None Include="07_static5_class2.cs" />
+    <None Include="07_static6.cs" />
+    <None Include="07_static6_constructor1.cs" />
+    <None Include="07_static6_constructor2.cs" />
+    <None Include="08_inheritance1.cs" />
+    <None Include="08_inheritance2_constructor1.cs" />
+    <None Include="08_inheritance2_constructor2.cs" />
+    <None Include="08_inheritance2_constructor2_1.cs" />
+    <None Include="08_inheritance2_constructor2_2.cs" />
+    <None Include="08_inheritance2_constructor3.cs" />
+    <None Include="08_inheritance3_upcasting1.cs" />
+    <None Include="08_inheritance3_upcasting2.cs" />
+    <None Include="09_override1.cs" />
+    <None Include="09_override2.cs" />
+    <None Include="09_override3.cs" />
+    <None Include="09_override4.cs" />
+    <None Include="09_override5.cs" />
+    <None Include="09_override6_example1.cs" />
+    <None Include="10_coupling1.cs" />
+    <None Include="10_coupling2.cs" />
+    <None Include="10_coupling3.cs" />
+    <None Include="10_coupling4.cs" />
+    <None Include="11_interface1.cs" />
+    <None Include="11_interface2.cs" />
+    <None Include="11_interface3.cs" />
+    <None Include="11_interface4.cs" />
+    <None Include="cmc.cs" />
+  </ItemGroup>
+
+</Project>

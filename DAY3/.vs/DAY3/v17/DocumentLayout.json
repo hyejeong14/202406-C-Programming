@@ -1,0 +1,717 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\DAY3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance3_upcasting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance3_upcasting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance3_upcasting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance3_upcasting2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance2_constructor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance2_constructor3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance3_upcasting1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance3_upcasting1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance2_constructor2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance2_constructor2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance2_constructor2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance2_constructor2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance2_constructor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance2_constructor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance2_constructor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance2_constructor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static6_constructor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static6_constructor1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\08_inheritance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:08_inheritance1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static6_constructor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static6_constructor2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static5_class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static5_class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static5_class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static5_class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\day3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:day3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\07_static2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:07_static2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\06_indexer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:06_indexer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\04_auto_property2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:04_auto_property2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\04_auto_property1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:04_auto_property1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\05_auto_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:05_auto_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\05_auto_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:05_auto_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\06_indexer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:06_indexer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\02_property4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:02_property4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\02_property3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:02_property3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\05_auto_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:05_auto_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\03_property_example4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:03_property_example4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\02_property1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:02_property1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\03_property_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:03_property_example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\03_property_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:03_property_example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\03_property_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:03_property_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\02_property2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:02_property2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\01_class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:01_class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\01_class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:01_class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\01_class3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:01_class3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\01_class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:01_class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\01_class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:01_class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|c:\\users\\user\\day3\\01_class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C276A504-0150-4088-8718-5C4F703E1954}|DAY3.csproj|solutionrelative:01_class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08_inheritance3_upcasting3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance3_upcasting3.cs",
+              "RelativeDocumentMoniker": "08_inheritance3_upcasting3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance3_upcasting3.cs",
+              "RelativeToolTip": "08_inheritance3_upcasting3.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wBsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:08:06.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "08_inheritance3_upcasting2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance3_upcasting2.cs",
+              "RelativeDocumentMoniker": "08_inheritance3_upcasting2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance3_upcasting2.cs",
+              "RelativeToolTip": "08_inheritance3_upcasting2.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:50:50.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "08_inheritance3_upcasting1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance3_upcasting1.cs",
+              "RelativeDocumentMoniker": "08_inheritance3_upcasting1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance3_upcasting1.cs",
+              "RelativeToolTip": "08_inheritance3_upcasting1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:27:21.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "08_inheritance2_constructor3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor3.cs",
+              "RelativeDocumentMoniker": "08_inheritance2_constructor3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor3.cs",
+              "RelativeToolTip": "08_inheritance2_constructor3.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:52:57.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "08_inheritance2_constructor2_2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor2_2.cs",
+              "RelativeDocumentMoniker": "08_inheritance2_constructor2_2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor2_2.cs",
+              "RelativeToolTip": "08_inheritance2_constructor2_2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:53:56.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "08_inheritance2_constructor2_1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor2_1.cs",
+              "RelativeDocumentMoniker": "08_inheritance2_constructor2_1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor2_1.cs",
+              "RelativeToolTip": "08_inheritance2_constructor2_1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:50:02.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "08_inheritance2_constructor2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor2.cs",
+              "RelativeDocumentMoniker": "08_inheritance2_constructor2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor2.cs",
+              "RelativeToolTip": "08_inheritance2_constructor2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:48:31.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "08_inheritance2_constructor1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor1.cs",
+              "RelativeDocumentMoniker": "08_inheritance2_constructor1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance2_constructor1.cs",
+              "RelativeToolTip": "08_inheritance2_constructor1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:38:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "08_inheritance1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\08_inheritance1.cs",
+              "RelativeDocumentMoniker": "08_inheritance1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\08_inheritance1.cs",
+              "RelativeToolTip": "08_inheritance1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:27:08.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "07_static6_constructor2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static6_constructor2.cs",
+              "RelativeDocumentMoniker": "07_static6_constructor2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static6_constructor2.cs",
+              "RelativeToolTip": "07_static6_constructor2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:04:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "07_static6_constructor1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static6_constructor1.cs",
+              "RelativeDocumentMoniker": "07_static6_constructor1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static6_constructor1.cs",
+              "RelativeToolTip": "07_static6_constructor1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:59:43.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "07_static5_class2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static5_class2.cs",
+              "RelativeDocumentMoniker": "07_static5_class2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static5_class2.cs",
+              "RelativeToolTip": "07_static5_class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:50:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "07_static5_class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static5_class1.cs",
+              "RelativeDocumentMoniker": "07_static5_class1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static5_class1.cs",
+              "RelativeToolTip": "07_static5_class1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:46:39.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAY3",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\DAY3.csproj",
+              "RelativeDocumentMoniker": "DAY3.csproj",
+              "ToolTip": "C:\\Users\\User\\DAY3\\DAY3.csproj",
+              "RelativeToolTip": "DAY3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T05:36:36.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "07_static6.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static6.cs",
+              "RelativeDocumentMoniker": "07_static6.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static6.cs",
+              "RelativeToolTip": "07_static6.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:37:02.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "07_static5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static5.cs",
+              "RelativeDocumentMoniker": "07_static5.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static5.cs",
+              "RelativeToolTip": "07_static5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T05:14:08.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "07_static4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static4.cs",
+              "RelativeDocumentMoniker": "07_static4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static4.cs",
+              "RelativeToolTip": "07_static4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:54:52.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "07_static3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static3.cs",
+              "RelativeDocumentMoniker": "07_static3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static3.cs",
+              "RelativeToolTip": "07_static3.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:36:28.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "07_static2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static2.cs",
+              "RelativeDocumentMoniker": "07_static2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static2.cs",
+              "RelativeToolTip": "07_static2.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:11:41.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "07_static1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\07_static1.cs",
+              "RelativeDocumentMoniker": "07_static1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\07_static1.cs",
+              "RelativeToolTip": "07_static1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:03:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "06_indexer2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\06_indexer2.cs",
+              "RelativeDocumentMoniker": "06_indexer2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\06_indexer2.cs",
+              "RelativeToolTip": "06_indexer2.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:55:36.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "06_indexer1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\06_indexer1.cs",
+              "RelativeDocumentMoniker": "06_indexer1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\06_indexer1.cs",
+              "RelativeToolTip": "06_indexer1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:42:08.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "02_property4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\02_property4.cs",
+              "RelativeDocumentMoniker": "02_property4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\02_property4.cs",
+              "RelativeToolTip": "02_property4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:12:34.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "05_auto_example3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\05_auto_example3.cs",
+              "RelativeDocumentMoniker": "05_auto_example3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\05_auto_example3.cs",
+              "RelativeToolTip": "05_auto_example3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:52:15.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "05_auto_example2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\05_auto_example2.cs",
+              "RelativeDocumentMoniker": "05_auto_example2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\05_auto_example2.cs",
+              "RelativeToolTip": "05_auto_example2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:44:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "04_auto_property1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\04_auto_property1.cs",
+              "RelativeDocumentMoniker": "04_auto_property1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\04_auto_property1.cs",
+              "RelativeToolTip": "04_auto_property1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:12:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "04_auto_property2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\04_auto_property2.cs",
+              "RelativeDocumentMoniker": "04_auto_property2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\04_auto_property2.cs",
+              "RelativeToolTip": "04_auto_property2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:00:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "05_auto_example1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\05_auto_example1.cs",
+              "RelativeDocumentMoniker": "05_auto_example1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\05_auto_example1.cs",
+              "RelativeToolTip": "05_auto_example1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:43:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "03_property_example4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\03_property_example4.cs",
+              "RelativeDocumentMoniker": "03_property_example4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\03_property_example4.cs",
+              "RelativeToolTip": "03_property_example4.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:12:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "02_property3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\02_property3.cs",
+              "RelativeDocumentMoniker": "02_property3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\02_property3.cs",
+              "RelativeToolTip": "02_property3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:45:22.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "03_property_example3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\03_property_example3.cs",
+              "RelativeDocumentMoniker": "03_property_example3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\03_property_example3.cs",
+              "RelativeToolTip": "03_property_example3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:10:18.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "03_property_example2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\03_property_example2.cs",
+              "RelativeDocumentMoniker": "03_property_example2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\03_property_example2.cs",
+              "RelativeToolTip": "03_property_example2.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:09:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "03_property_example1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\03_property_example1.cs",
+              "RelativeDocumentMoniker": "03_property_example1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\03_property_example1.cs",
+              "RelativeToolTip": "03_property_example1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:53:36.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "02_property2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\02_property2.cs",
+              "RelativeDocumentMoniker": "02_property2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\02_property2.cs",
+              "RelativeToolTip": "02_property2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:32:53.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "02_property1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\02_property1.cs",
+              "RelativeDocumentMoniker": "02_property1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\02_property1.cs",
+              "RelativeToolTip": "02_property1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:08:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "01_class5.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\01_class5.cs",
+              "RelativeDocumentMoniker": "01_class5.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\01_class5.cs",
+              "RelativeToolTip": "01_class5.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:02:01.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "01_class4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\01_class4.cs",
+              "RelativeDocumentMoniker": "01_class4.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\01_class4.cs",
+              "RelativeToolTip": "01_class4.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:50:28.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "01_class3_1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\01_class3_1.cs",
+              "RelativeDocumentMoniker": "01_class3_1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\01_class3_1.cs",
+              "RelativeToolTip": "01_class3_1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:50:24.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "01_class3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\01_class3.cs",
+              "RelativeDocumentMoniker": "01_class3.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\01_class3.cs",
+              "RelativeToolTip": "01_class3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:49:29.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "01_class2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\01_class2.cs",
+              "RelativeDocumentMoniker": "01_class2.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\01_class2.cs",
+              "RelativeToolTip": "01_class2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:49:17.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "01_class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DAY3\\01_class1.cs",
+              "RelativeDocumentMoniker": "01_class1.cs",
+              "ToolTip": "C:\\Users\\User\\DAY3\\01_class1.cs",
+              "RelativeToolTip": "01_class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:49:10.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

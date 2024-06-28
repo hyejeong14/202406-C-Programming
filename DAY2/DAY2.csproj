@@ -1,0 +1,122 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_static_method_vs_instance_method.cs" />
+    <Compile Remove="02_mutabe_vs_immutable1.cs" />
+    <Compile Remove="02_mutable_vs_immutable2.cs" />
+    <Compile Remove="02_mutable_vs_immutable3.cs" />
+    <Compile Remove="02_mutable_vs_immutable4.cs" />
+    <Compile Remove="03_nullable1.cs" />
+    <Compile Remove="03_nullable2.cs" />
+    <Compile Remove="03_nullable3.cs" />
+    <Compile Remove="03_nullable4_operator1.cs" />
+    <Compile Remove="03_nullable4_operator2.cs" />
+    <Compile Remove="03_nullable4_operator3.cs" />
+    <Compile Remove="03_nullable5_reference1.cs" />
+    <Compile Remove="03_nullable5_reference2.cs" />
+    <Compile Remove="04_tuple1.cs" />
+    <Compile Remove="04_tuple2.cs" />
+    <Compile Remove="04_tuple3_ValueTuple1.cs" />
+    <Compile Remove="04_tuple3_ValueTuple2.cs" />
+    <Compile Remove="04_tuple3_ValueTuple3.cs" />
+    <Compile Remove="05_method1_named_argument1.cs" />
+    <Compile Remove="05_method2_optional_parameter1.cs" />
+    <Compile Remove="05_method3_params.cs" />
+    <Compile Remove="05_method3_params2.cs" />
+    <Compile Remove="05_method4_expression_bodied.cs" />
+    <Compile Remove="06_parameter_modifier1.cs" />
+    <Compile Remove="06_parameter_modifier2.cs" />
+    <Compile Remove="06_parameter_modifier3.cs" />
+    <Compile Remove="06_parameter_modifier4.cs" />
+    <Compile Remove="06_parameter_modifier5.cs" />
+    <Compile Remove="07_1_ref_readonly_1.cs" />
+    <Compile Remove="07_1_ref_readonly_2.cs" />
+    <Compile Remove="07_1_ref_readonly_3.cs" />
+    <Compile Remove="07_reference_parameter1.cs" />
+    <Compile Remove="07_reference_parameter2.cs" />
+    <Compile Remove="07_reference_parameter3.cs" />
+    <Compile Remove="07_reference_parameter3_1.cs" />
+    <Compile Remove="07_reference_parameter4.cs" />
+    <Compile Remove="08_OOP1.cs" />
+    <Compile Remove="08_OOP2.cs" />
+    <Compile Remove="08_OOP3.cs" />
+    <Compile Remove="09_property1.cs" />
+    <Compile Remove="09_property2.cs" />
+    <Compile Remove="09_property3.cs" />
+    <Compile Remove="10_property_example1.cs" />
+    <Compile Remove="10_property_example2.cs" />
+    <Compile Remove="10_property_example3.cs" />
+    <Compile Remove="11_auto_property1.cs" />
+    <Compile Remove="11_auto_property2.cs" />
+    <Compile Remove="12_auto_example1.cs" />
+    <Compile Remove="12_auto_example2.cs" />
+    <Compile Remove="12_auto_example3.cs" />
+    <Compile Remove="12_auto_example4.cs" />
+    <Compile Remove="13_indexer1.cs" />
+    <Compile Remove="13_indexer2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_static_method_vs_instance_method.cs" />
+    <None Include="02_mutabe_vs_immutable1.cs" />
+    <None Include="02_mutable_vs_immutable2.cs" />
+    <None Include="02_mutable_vs_immutable3.cs" />
+    <None Include="02_mutable_vs_immutable4.cs" />
+    <None Include="03_nullable1.cs" />
+    <None Include="03_nullable2.cs" />
+    <None Include="03_nullable3.cs" />
+    <None Include="03_nullable4_operator1.cs" />
+    <None Include="03_nullable4_operator2.cs" />
+    <None Include="03_nullable4_operator3.cs" />
+    <None Include="03_nullable5_reference1.cs" />
+    <None Include="03_nullable5_reference2.cs" />
+    <None Include="04_tuple1.cs" />
+    <None Include="04_tuple2.cs" />
+    <None Include="04_tuple3_ValueTuple1.cs" />
+    <None Include="04_tuple3_ValueTuple2.cs" />
+    <None Include="04_tuple3_ValueTuple3.cs" />
+    <None Include="05_method1_named_argument1.cs" />
+    <None Include="05_method2_optional_parameter1.cs" />
+    <None Include="05_method3_params.cs" />
+    <None Include="05_method3_params2.cs" />
+    <None Include="05_method4_expression_bodied.cs" />
+    <None Include="06_parameter_modifier1.cs" />
+    <None Include="06_parameter_modifier2.cs" />
+    <None Include="06_parameter_modifier3.cs" />
+    <None Include="06_parameter_modifier4.cs" />
+    <None Include="06_parameter_modifier5.cs" />
+    <None Include="07_1_ref_readonly_1.cs" />
+    <None Include="07_1_ref_readonly_2.cs" />
+    <None Include="07_1_ref_readonly_3.cs" />
+    <None Include="07_reference_parameter1.cs" />
+    <None Include="07_reference_parameter2.cs" />
+    <None Include="07_reference_parameter3.cs" />
+    <None Include="07_reference_parameter3_1.cs" />
+    <None Include="07_reference_parameter4.cs" />
+    <None Include="08_OOP1.cs" />
+    <None Include="08_OOP2.cs" />
+    <None Include="08_OOP3.cs" />
+    <None Include="09_property1.cs" />
+    <None Include="09_property2.cs" />
+    <None Include="09_property3.cs" />
+    <None Include="10_property_example1.cs" />
+    <None Include="10_property_example2.cs" />
+    <None Include="10_property_example3.cs" />
+    <None Include="11_auto_property1.cs" />
+    <None Include="11_auto_property2.cs" />
+    <None Include="12_auto_example1.cs" />
+    <None Include="12_auto_example2.cs" />
+    <None Include="12_auto_example3.cs" />
+    <None Include="12_auto_example4.cs" />
+    <None Include="13_indexer1.cs" />
+    <None Include="13_indexer2.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,104 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="00_operator_overloading.cs" />
+    <Compile Remove="00_operator_overloading1.cs" />
+    <Compile Remove="00_operator_overloading2.cs" />
+    <Compile Remove="01_override1.cs" />
+    <Compile Remove="01_override2.cs" />
+    <Compile Remove="01_override3.cs" />
+    <Compile Remove="01_override4.cs" />
+    <Compile Remove="01_override5.cs" />
+    <Compile Remove="02_override_example.4.cs" />
+    <Compile Remove="02_override_example1.cs" />
+    <Compile Remove="02_override_example2.cs" />
+    <Compile Remove="02_override_example3.cs" />
+    <Compile Remove="02_override_example4.cs" />
+    <Compile Remove="02_override_example5.cs" />
+    <Compile Remove="03_interface1.cs" />
+    <Compile Remove="03_interface2.cs" />
+    <Compile Remove="03_interface4.cs" />
+    <Compile Remove="04_interface_example1.cs" />
+    <Compile Remove="04_interface_example2.cs" />
+    <Compile Remove="04_interface_example3.cs" />
+    <Compile Remove="04_interface_example4.cs" />
+    <Compile Remove="05_equals1.cs" />
+    <Compile Remove="05_equals2.cs" />
+    <Compile Remove="05_equals3.cs" />
+    <Compile Remove="05_equals4.cs" />
+    <Compile Remove="05_equals5.cs" />
+    <Compile Remove="06_value_type_equals%28%29.cs" />
+    <Compile Remove="06_value_type_equals1.cs" />
+    <Compile Remove="06_value_type_equals2.cs" />
+    <Compile Remove="06_value_type_equals3.cs" />
+    <Compile Remove="07_boxing1.cs" />
+    <Compile Remove="07_boxing2.cs" />
+    <Compile Remove="08_boxing_example1.cs" />
+    <Compile Remove="08_boxing_example2.cs" />
+    <Compile Remove="08_boxing_example3.cs" />
+    <Compile Remove="08_boxing_example4.cs" />
+    <Compile Remove="08_boxing_example5.cs" />
+    <Compile Remove="cmc.cs" />
+    <Compile Remove="object1.cs" />
+    <Compile Remove="object2.cs" />
+    <Compile Remove="prepare_exam.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="00_operator_overloading1.cs" />
+    <None Include="00_operator_overloading2.cs" />
+    <None Include="01_override1.cs" />
+    <None Include="01_override2.cs" />
+    <None Include="01_override3.cs" />
+    <None Include="01_override4.cs" />
+    <None Include="01_override5.cs" />
+    <None Include="02_override_example.4.cs" />
+    <None Include="02_override_example1.cs" />
+    <None Include="02_override_example2.cs" />
+    <None Include="02_override_example3.cs" />
+    <None Include="02_override_example4.cs" />
+    <None Include="02_override_example5.cs" />
+    <None Include="03_interface1.cs" />
+    <None Include="03_interface2.cs" />
+    <None Include="03_interface4.cs" />
+    <None Include="04_interface_example1.cs" />
+    <None Include="04_interface_example2.cs" />
+    <None Include="04_interface_example3.cs" />
+    <None Include="04_interface_example4.cs" />
+    <None Include="05_equals1.cs" />
+    <None Include="05_equals2.cs" />
+    <None Include="05_equals3.cs" />
+    <None Include="05_equals4.cs" />
+    <None Include="05_equals5.cs" />
+    <None Include="06_value_type_equals().cs" />
+    <None Include="06_value_type_equals1.cs" />
+    <None Include="06_value_type_equals2.cs" />
+    <None Include="07_boxing1.cs" />
+    <None Include="07_boxing2.cs" />
+    <None Include="08_boxing_example1.cs" />
+    <None Include="08_boxing_example2.cs" />
+    <None Include="08_boxing_example3.cs" />
+    <None Include="08_boxing_example4.cs" />
+    <None Include="08_boxing_example5.cs" />
+    <None Include="cmc.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="00_operator_overloading.cs" />
+    <None Include="object1.cs" />
+    <None Include="object2.cs" />
+    <None Include="prepare_exam.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <XamlAppDef Include="06_value_type_equals3.cs" />
+  </ItemGroup>
+
+</Project>
