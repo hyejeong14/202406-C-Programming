@@ -20,7 +20,7 @@ var v4 = "hello";   //string v4
 
 // #3. literal
 int a1 = 10;		// 10진수
-int a2 = 0x10;      // 16wlstm
+int a2 = 0x10;      // 16진수
 int a3 = 0b10;      // 2진수
 
 int b1 = 1000000;	// 큰 값을 사용하는 경우
